@@ -1,2 +1,4 @@
 Feature B - Commit 1
 Feature B - Commit 2
+Feature A - Commit 1
+Feature A - Commit 2
