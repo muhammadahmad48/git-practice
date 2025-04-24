@@ -2,3 +2,5 @@ Feature B - Commit 1
 Feature B - Commit 2
 Feature A - Commit 1
 Feature A - Commit 2
+feature-branc-a  - Commit 1
+feature-branc-a - Commit 2
